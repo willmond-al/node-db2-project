@@ -8,6 +8,7 @@ In this challenge, you will write an API that can be used to manage _Cars_ store
 
 ### Task 1: Set Up The Project With Git
 
+
 Follow these steps to set up and work on your project:
 
 - [ ] Create a forked copy of this project.
